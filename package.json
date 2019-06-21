@@ -1,0 +1,9 @@
+{
+ "name": "make-demo",
+ "private": true,
+ "description": "A demo of building using GNU Make",
+ "devDependencies": {
+  "browserify": "^16.2.3",
+  "typescript": "^3.5.1"
+ }
+}
